@@ -1,0 +1,41 @@
+C:\Users\Stan.Zheng\Documents\Visual Studio 2015\Projects\clinicReport\clinicReport\bin\Debug\clinicReport.exe.config
+C:\Users\Stan.Zheng\Documents\Visual Studio 2015\Projects\clinicReport\clinicReport\bin\Debug\clinicReport.exe
+C:\Users\Stan.Zheng\Documents\Visual Studio 2015\Projects\clinicReport\clinicReport\bin\Debug\clinicReport.pdb
+C:\Users\Stan.Zheng\Documents\Visual Studio 2015\Projects\clinicReport\clinicReport\obj\Debug\clinicReport.csprojResolveAssemblyReference.cache
+C:\Users\Stan.Zheng\Documents\Visual Studio 2015\Projects\clinicReport\clinicReport\obj\Debug\clinicReport.csproj.ResolveComReference.cache
+C:\Users\Stan.Zheng\Documents\Visual Studio 2015\Projects\clinicReport\clinicReport\obj\Debug\clinicReport.Form1.resources
+C:\Users\Stan.Zheng\Documents\Visual Studio 2015\Projects\clinicReport\clinicReport\obj\Debug\clinicReport.Form2.resources
+C:\Users\Stan.Zheng\Documents\Visual Studio 2015\Projects\clinicReport\clinicReport\obj\Debug\clinicReport.Form3.resources
+C:\Users\Stan.Zheng\Documents\Visual Studio 2015\Projects\clinicReport\clinicReport\obj\Debug\clinicReport.Properties.Resources.resources
+C:\Users\Stan.Zheng\Documents\Visual Studio 2015\Projects\clinicReport\clinicReport\obj\Debug\clinicReport.csproj.GenerateResource.Cache
+C:\Users\Stan.Zheng\Documents\Visual Studio 2015\Projects\clinicReport\clinicReport\obj\Debug\clinicReport.exe
+C:\Users\Stan.Zheng\Documents\Visual Studio 2015\Projects\clinicReport\clinicReport\obj\Debug\clinicReport.pdb
+C:\Users\Stan.Zheng\Desktop\医务室报表补录\clinicReport\clinicReport\bin\Debug\clinicReport.exe.config
+C:\Users\Stan.Zheng\Desktop\医务室报表补录\clinicReport\clinicReport\obj\Debug\clinicReport.csproj.ResolveComReference.cache
+C:\Users\Stan.Zheng\Desktop\医务室报表补录\clinicReport\clinicReport\obj\Debug\clinicReport.exe
+C:\Users\Stan.Zheng\Desktop\医务室报表补录\clinicReport\clinicReport\obj\Debug\clinicReport.pdb
+C:\Users\Stan.Zheng\Desktop\医务室报表补录\clinicReport\clinicReport\bin\Debug\clinicReport.exe
+C:\Users\Stan.Zheng\Desktop\医务室报表补录\clinicReport\clinicReport\obj\Debug\clinicReport.Form1.resources
+C:\Users\Stan.Zheng\Desktop\医务室报表补录\clinicReport\clinicReport\obj\Debug\clinicReport.Form2.resources
+C:\Users\Stan.Zheng\Desktop\医务室报表补录\clinicReport\clinicReport\obj\Debug\clinicReport.Form3.resources
+C:\Users\Stan.Zheng\Desktop\医务室报表补录\clinicReport\clinicReport\obj\Debug\clinicReport.Properties.Resources.resources
+C:\Users\Stan.Zheng\Desktop\医务室报表补录\clinicReport\clinicReport\obj\Debug\clinicReport.csproj.GenerateResource.Cache
+C:\Users\Stan.Zheng\Desktop\医务室报表补录\clinicReport\clinicReport\bin\Debug\clinicReport.pdb
+D:\PMX\医务室报表补录\clinicReport\clinicReport\bin\Debug\clinicReport.exe.config
+D:\PMX\医务室报表补录\clinicReport\clinicReport\bin\Debug\clinicReport.exe
+D:\PMX\医务室报表补录\clinicReport\clinicReport\bin\Debug\clinicReport.pdb
+D:\PMX\医务室报表补录\clinicReport\clinicReport\obj\Debug\clinicReport.csproj.AssemblyReference.cache
+D:\PMX\医务室报表补录\clinicReport\clinicReport\obj\Debug\clinicReport.csproj.SuggestedBindingRedirects.cache
+D:\PMX\医务室报表补录\clinicReport\clinicReport\obj\Debug\clinicReport.csproj.ResolveComReference.cache
+D:\PMX\医务室报表补录\clinicReport\clinicReport\obj\Debug\clinicReport.Form1.resources
+D:\PMX\医务室报表补录\clinicReport\clinicReport\obj\Debug\clinicReport.Form2.resources
+D:\PMX\医务室报表补录\clinicReport\clinicReport\obj\Debug\clinicReport.Form3.resources
+D:\PMX\医务室报表补录\clinicReport\clinicReport\obj\Debug\clinicReport.Properties.Resources.resources
+D:\PMX\医务室报表补录\clinicReport\clinicReport\obj\Debug\clinicReport.csproj.GenerateResource.cache
+D:\PMX\医务室报表补录\clinicReport\clinicReport\obj\Debug\clinicReport.csproj.CoreCompileInputs.cache
+D:\PMX\医务室报表补录\clinicReport\clinicReport\obj\Debug\clinicReport.exe
+D:\PMX\医务室报表补录\clinicReport\clinicReport\obj\Debug\clinicReport.pdb
+D:\医务室报表补录\clinicReport\clinicReport\bin\Debug\clinicReport.exe.config
+D:\医务室报表补录\clinicReport\clinicReport\obj\Debug\clinicReport.csproj.ResolveComReference.cache
+D:\医务室报表补录\clinicReport\clinicReport\obj\Debug\clinicReport.exe
+D:\医务室报表补录\clinicReport\clinicReport\obj\Debug\clinicReport.pdb
